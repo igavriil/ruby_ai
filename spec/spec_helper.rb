@@ -4,7 +4,6 @@ require 'coveralls'
 Coveralls.wear!
 
 require 'ruby_ai'
-require 'ruby_ai/search/core/frontier'
 
 RSpec.configure do |config|
   config.color = true
