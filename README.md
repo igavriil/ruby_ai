@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/igavriil/ruby_ai.svg)](https://travis-ci.org/igavriil/ruby_ai) [![Gem Version](https://badge.fury.io/rb/ruby_ai.svg)](https://badge.fury.io/rb/ruby_ai) [![Coverage Status](https://coveralls.io/repos/igavriil/ruby_ai/badge.svg?branch=master&service=github)](https://coveralls.io/github/igavriil/ruby_ai?branch=master)
 # RubyAi
 
 Implementation of algorithms described in 'Artificial Intelligence: A modern approach' in ruby. 
